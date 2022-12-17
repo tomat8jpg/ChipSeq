@@ -1,0 +1,256 @@
+chr,start,end,name,signalValue ,pValue ,qValue,peak,ann_start,ann_end,gene,product
+U00096.3,142,380,NA_peak_1,1.34428,12.5422,10.138,111,190,255,gene=thrL,product=thr operon leader peptide
+U00096.3,142,380,NA_peak_1,1.34428,12.5422,10.138,111,337,2799,gene=thrA,product=fused aspartate kinase/homoserine dehydrogenase 1
+U00096.3,1876,2126,NA_peak_2,1.26976,8.65797,6.51969,48,337,2799,gene=thrA,product=fused aspartate kinase/homoserine dehydrogenase 1
+U00096.3,6549,6732,NA_peak_3,1.25144,7.76811,5.69759,45,6529,7959,gene=yaaJ,product=putative transporter YaaJ
+U00096.3,31867,32026,NA_peak_4,1.20748,6.26589,4.31204,118,30817,34038,gene=carB,product=carbamoyl-phosphate synthetase large subunit
+U00096.3,83456,83779,NA_peak_5,1.39627,16.6487,14.0427,178,81958,83529,gene=leuA,product=2-isopropylmalate synthase
+U00096.3,83456,83779,NA_peak_5,1.39627,16.6487,14.0427,178,83622,83708,gene=leuL,product=leu operon leader peptide
+U00096.3,102414,102593,NA_peak_6,1.16069,3.94686,2.20524,80,102233,103153,gene=ddlB,product=D-alanine--D-alanine ligase B
+U00096.3,106599,106747,NA_peak_7,1.1272,3.02609,1.41147,72,106557,107474,gene=lpxC,product=UDP-3-O-acyl-N-acetylglucosamine deacetylase
+U00096.3,122018,122207,NA_peak_8,1.29236,10.2868,8.03307,80,122092,122856,gene=pdhR,product=DNA-binding transcriptional dual regulator PdhR
+U00096.3,158466,158664,NA_peak_9,1.2006,5.7544,3.84033,71,157729,159126,gene=pcnB,product=poly(A) polymerase I
+U00096.3,178103,178250,NA_peak_10,1.17173,4.37959,2.58874,83,177662,178462,gene=btuF,product=vitamin B12 ABC transporter periplasmic binding protein
+U00096.3,223766,224411,NA_peak_11,1.2449,8.50611,6.37914,504,222833,223408,gene=gmhB,product=D-glycero-beta-D-manno-heptose-1%2C7-bisphosphate 7-phosphatase
+U00096.3,224465,227352,NA_peak_12,1.24758,9.40133,7.20819,616,222833,223408,gene=gmhB,product=D-glycero-beta-D-manno-heptose-1%2C7-bisphosphate 7-phosphatase
+U00096.3,227432,229048,NA_peak_13,1.47275,27.053,24.2427,738,229167,229970,gene=dkgB,product=methylglyoxal reductase DkgB
+U00096.3,236798,236988,NA_peak_14,1.28939,9.36051,7.17007,132,236067,236798,gene=dnaQ,product=DNA polymerase III subunit epsilon
+U00096.3,262688,262966,NA_peak_15,1.27841,9.28668,7.10219,209,261503,262756,gene=proA,product=glutamate-5-semialdehyde dehydrogenase
+U00096.3,305159,305543,NA_peak_16,1.71911,51.8585,48.8485,181,304495,305205,gene=ecpE,product=putative fimbrial chaperone EcpE
+U00096.3,305159,305543,NA_peak_16,1.71911,51.8585,48.8485,181,305174,306817,gene=ecpD,product=fimbrial adhesin EcpD
+U00096.3,313084,313635,NA_peak_17,3.46109,390.489,386.759,222,313141,313242,gene=ykgR,product=putative membrane protein YkgR
+U00096.3,320432,320696,NA_peak_18,1.36286,14.6837,12.1604,156,320227,321081,gene=rclR,product=DNA-binding transcriptional activator RclR
+U00096.3,366235,366581,NA_peak_19,1.60456,63.3774,60.3197,193,363231,366305,gene=lacZ,product=beta-galactosidase
+U00096.3,366235,366581,NA_peak_19,1.60456,63.3774,60.3197,193,366428,367510,gene=lacI,product=DNA-binding transcriptional repressor LacI
+U00096.3,402075,402392,NA_peak_20,1.3678,14.1602,11.6648,98,401747,403162,gene=phoA,product=alkaline phosphatase
+U00096.3,464184,464472,NA_peak_21,1.65135,40.0834,37.1501,162,463937,464308,gene=ybaV,product=helix-hairpin-helix 3 family protein
+U00096.3,464184,464472,NA_peak_21,1.65135,40.0834,37.1501,162,464402,464800,gene=fadM,product=long-chain acyl-CoA thioesterase FadM
+U00096.3,657270,657509,NA_peak_22,1.56066,29.9163,27.0728,118,657292,657501,gene=cspE,product=transcription antiterminator and regulator of RNA stability CspE
+U00096.3,696630,697086,NA_peak_23,1.35721,13.5007,11.0416,272,695101,696276,gene=ubiF,product=3-demethoxyubiquinol 3-hydroxylase
+U00096.3,780696,780906,NA_peak_24,1.28375,9.04962,6.88195,113,779598,780389,gene=cpoB,product=cell division coordinator CpoB
+U00096.3,781044,781249,NA_peak_25,1.28034,9.15664,6.9813,86,779598,780389,gene=cpoB,product=cell division coordinator CpoB
+U00096.3,951971,952234,NA_peak_26,1.2088,5.93355,4.00533,122,951272,953554,gene=pflB,product=pyruvate formate-lyase
+U00096.3,952626,952810,NA_peak_27,1.26742,8.43205,6.31127,103,951272,953554,gene=pflB,product=pyruvate formate-lyase
+U00096.3,1019101,1019266,NA_peak_28,1.19378,5.17056,3.30485,157,1019013,1020053,gene=ompA,product=outer membrane protein A
+U00096.3,1050092,1050317,NA_peak_29,1.20151,5.91463,3.98793,205,1049833,1050108,gene=insA4,product=IS1 family protein InsA
+U00096.3,1050092,1050317,NA_peak_29,1.20151,5.91463,3.98793,205,1050027,1050530,gene=insB4,product=IS1 family protein InsB
+U00096.3,1342493,1342651,NA_peak_30,1.26431,8.04479,5.9531,92,1341921,1342658,gene=pyrF,product=orotidine-5'-phosphate decarboxylase
+U00096.3,1610418,1611116,NA_peak_31,3.083,698.239,693.602,304,1609229,1610680,gene=uxaB,product=tagaturonate reductase
+U00096.3,1610418,1611116,NA_peak_31,3.083,698.239,693.602,304,1610907,1611854,gene=dgcF,product=putative diguanylate cyclase DgcF
+U00096.3,1695945,1696221,NA_peak_32,1.6814,42.1792,39.2278,154,1694260,1696071,gene=uidA,product=beta-glucuronidase
+U00096.3,1696976,1697412,NA_peak_33,2.94365,262.994,259.433,219,1696462,1697052,gene=uidR,product=DNA-binding transcriptional repressor UidR
+U00096.3,1696976,1697412,NA_peak_33,2.94365,262.994,259.433,219,1697273,1698040,gene=hdhA,product=7-alpha-hydroxysteroid dehydrogenase
+U00096.3,1699482,1699906,NA_peak_34,2.48422,166.189,162.823,234,1699355,1700947,gene=malX,product=PTS enzyme IIBC component MalX
+U00096.3,1799907,1800203,NA_peak_35,1.18492,4.82448,2.9903,168,1799802,1799999,gene=rpmI,product=50S ribosomal subunit protein L35
+U00096.3,1799907,1800203,NA_peak_35,1.18492,4.82448,2.9903,168,1800096,1800638,gene=infC,product=translation initiation factor IF-3
+U00096.3,1846025,1846220,NA_peak_36,1.30037,9.93746,7.70727,72,1844999,1846960,gene=topB,product=DNA topoisomerase III
+U00096.3,1913357,1913611,NA_peak_37,1.64063,37.9602,35.0422,114,1912768,1914816,gene=prc,product=tail-specific protease
+U00096.3,1991786,1992199,NA_peak_38,1.43685,20.5399,17.8307,124,1992269,1992817,gene=pgsA,product=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+U00096.3,2265854,2266450,NA_peak_39,3.45697,727.888,723.014,318,2265450,2266022,gene=yeiP,product=elongation factor P-like protein YeiP
+U00096.3,2265854,2266450,NA_peak_39,3.45697,727.888,723.014,318,2266245,2267711,gene=yeiQ,product=putative oxidoreductase YeiQ
+U00096.3,2270141,2270350,NA_peak_40,1.28312,9.02242,6.85638,66,2269979,2270545,gene=mepS,product=peptidoglycan endopeptidase/peptidoglycan L%2CD-carboxypeptidase
+U00096.3,2311582,2312041,NA_peak_41,1.36623,14.0218,11.5343,167,2311646,2312749,gene=ompC,product=outer membrane porin C
+U00096.3,2359792,2360020,NA_peak_42,1.50264,24.4918,21.7162,95,2358863,2360152,gene=yfaV,product=putative transporter YfaV
+U00096.3,2370340,2370542,NA_peak_43,1.41343,18.2621,15.611,97,2370018,2370908,gene=arnD,product=putative 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD
+U00096.3,2404824,2404977,NA_peak_44,1.17023,3.92652,2.18723,83,2404629,2405072,gene=nuoA,product=NADH:quinone oxidoreductase subunit A
+U00096.3,2430051,2430221,NA_peak_45,1.27685,8.69042,6.54887,100,2428721,2430238,gene=purF,product=amidophosphoribosyltransferase
+U00096.3,2518038,2518251,NA_peak_46,1.26262,8.10825,6.01199,49,2515643,2517832,gene=pdeA,product=putative c-di-GMP phosphodiesterase PdeA
+U00096.3,2520983,2521291,NA_peak_47,1.39288,15.8705,13.2914,87,2521593,2522477,gene=xapR,product=DNA-binding transcriptional activator XapR
+U00096.3,2532429,2532682,NA_peak_48,1.21584,5.93854,4.00999,105,2532409,2533380,gene=cysK,product=cysteine synthase A
+U00096.3,2608132,2608403,NA_peak_49,1.54487,34.9814,32.0859,166,2606917,2608497,gene=hyfF,product=hydrogenase 4 component F
+U00096.3,2617027,2617480,NA_peak_50,2.11596,109.187,105.998,236,2616094,2617557,gene=bepA,product=beta-barrel assembly-enhancing protease
+U00096.3,2625213,2625368,NA_peak_51,1.25647,7.62805,5.568,89,2625115,2626656,gene=ppx,product=exopolyphosphatase
+U00096.3,2636171,2636384,NA_peak_52,1.28717,10.1091,7.86726,82,2635884,2637356,gene=der,product=50S ribosomal subunit stability factor
+U00096.3,2650365,2650597,NA_peak_53,1.35028,13.8297,11.3527,120,2647326,2652287,gene=yfhM,product=alpha2-macroglobulin
+U00096.3,2691113,2691339,NA_peak_54,1.35041,13.8828,11.403,121,2689671,2691098,gene=glrK,product=histidine kinase GlrK
+U00096.3,2715963,2716458,NA_peak_55,1.62123,35.8928,32.99,278,2715423,2716010,gene=eamB,product=cysteine/O-acetylserine exporter EamB
+U00096.3,2715963,2716458,NA_peak_55,1.62123,35.8928,32.99,278,2716066,2716449,gene=grcA,product=stress-induced alternate pyruvate formate-lyase subunit
+U00096.3,2726072,2728364,NA_peak_56,1.31158,14.0536,11.5644,1961,2725925,2725987,gene=yfiS,product=protein YfiS
+U00096.3,2728431,2730956,NA_peak_57,1.33578,16.0378,13.4519,1658,2731600,2734173,gene=clpB,product=chaperone protein ClpB
+U00096.3,2728431,2730956,NA_peak_57,1.33578,16.0378,13.4519,1658,2731600,2733729,gene=clpB,product=ClpB80
+U00096.3,2731187,2731378,NA_peak_58,1.2314,7.00898,4.99828,49,2731600,2734173,gene=clpB,product=chaperone protein ClpB
+U00096.3,2731187,2731378,NA_peak_58,1.2314,7.00898,4.99828,49,2731600,2733729,gene=clpB,product=ClpB80
+U00096.3,2737404,2737593,NA_peak_59,1.20022,5.69564,3.78645,60,2737154,2737495,gene=raiA,product=ribosome-associated inhibitor A
+U00096.3,2753648,2753808,NA_peak_60,1.25333,7.42381,5.37996,40,2753605,2753946,gene=bamE,product=outer membrane protein assembly factor BamE
+U00096.3,2755515,2755865,NA_peak_61,1.22377,6.99034,4.98103,219,2754896,2755378,gene=smpB,product=SsrA-binding protein
+U00096.3,2797584,2797731,NA_peak_62,1.2596,7.73121,5.6635,58,2797520,2798044,gene=ygaP,product=thiosulfate sulfurtransferase YgaP
+U00096.3,2817714,2818697,NA_peak_63,1.5454,29.7517,26.9101,798,2816937,2817503,gene=yqaB,product=fructose-1-phosphate phosphatase YqaB
+U00096.3,2822768,2823029,NA_peak_64,1.29458,10.6969,8.41405,175,2822708,2823769,gene=recA,product=DNA recombination/repair protein RecA
+U00096.3,2866658,2866860,NA_peak_65,1.27681,10.341,8.08328,67,2866559,2867551,gene=rpoS,product=RNA polymerase sigma factor RpoS
+U00096.3,2867281,2867561,NA_peak_66,1.19526,5.57668,3.67677,75,2866559,2867551,gene=rpoS,product=RNA polymerase sigma factor RpoS
+U00096.3,2867964,2868135,NA_peak_67,1.19716,5.71702,3.80586,117,2867614,2868753,gene=nlpD,product=murein hydrolase activator NlpD
+U00096.3,2924134,2924548,NA_peak_68,1.72874,56.7255,53.6922,159,2923784,2924113,gene=yqcC,product=DUF446 domain-containing protein YqcC
+U00096.3,2931232,2931450,NA_peak_69,1.47139,24.342,21.5685,109,2931055,2931810,gene=ygdG,product=flap endonuclease
+U00096.3,2970211,2970362,NA_peak_70,1.19945,5.26778,3.39417,10,2969662,2970351,gene=mutH,product=DNA mismatch repair protein MutH
+U00096.3,2999002,2999221,NA_peak_71,1.25207,7.65814,5.59589,114,2999136,2999891,gene=actS,product=amidase activator
+U00096.3,3055907,3056356,NA_peak_72,1.19251,6.40043,4.43668,170,3055612,3055941,gene=zapA,product=cell division protein ZapA
+U00096.3,3055907,3056356,NA_peak_72,1.19251,6.40043,4.43668,170,3056241,3056789,gene=fau,product=putative 5-formyltetrahydrofolate cyclo-ligase
+U00096.3,3057112,3057262,NA_peak_73,1.19072,5.28867,3.41269,62,3057178,3058410,gene=serA,product=phosphoglycerate dehydrogenase
+U00096.3,3058034,3058299,NA_peak_74,1.21878,6.3911,4.42795,200,3057178,3058410,gene=serA,product=phosphoglycerate dehydrogenase
+U00096.3,3178118,3178419,NA_peak_75,1.23905,7.36908,5.32945,224,3178115,3179596,gene=tolC,product=outer membrane channel TolC
+U00096.3,3194636,3194969,NA_peak_76,1.35622,14.4284,11.9173,131,3194766,3194825,gene=ibsD,product=putative toxic peptide IbsD
+U00096.3,3210749,3210939,NA_peak_77,1.39118,18.5661,15.907,75,3210781,3210996,gene=rpsU,product=30S ribosomal subunit protein S21
+U00096.3,3228064,3228307,NA_peak_78,1.27622,9.82488,7.60224,117,3227801,3228871,gene=ygjJ,product=protein YgjJ
+U00096.3,3238381,3238553,NA_peak_79,1.20138,5.83361,3.91296,90,3238580,3239545,gene=alx,product=putative membrane-bound redox modulator Alx
+U00096.3,3243401,3243598,NA_peak_80,1.27687,10.958,8.65681,109,3243329,3244741,gene=uxaC,product=D-glucoronate/D-galacturonate isomerase
+U00096.3,3244306,3245189,NA_peak_81,3.64216,850.448,844.384,498,3243329,3244741,gene=uxaC,product=D-glucoronate/D-galacturonate isomerase
+U00096.3,3246382,3246782,NA_peak_82,2.41484,210.366,206.896,228,3245224,3246522,gene=exuT,product=hexuronate transporter
+U00096.3,3246382,3246782,NA_peak_82,2.41484,210.366,206.896,228,3246652,3247428,gene=exuR,product=DNA-binding transcriptional repressor ExuR
+U00096.3,3267544,3267708,NA_peak_83,1.48696,23.2559,20.4968,84,3267380,3267598,gene=tdcR,product=DNA-binding transcriptional activator TdcR
+U00096.3,3276218,3276571,NA_peak_84,1.36856,16.2886,13.6941,109,3275282,3276853,gene=garD,product=GarD
+U00096.3,3307950,3308162,NA_peak_85,1.31554,12.8026,10.384,120,3308040,3308924,gene=nlpI,product=lipoprotein NlpI
+U00096.3,3308227,3308611,NA_peak_86,1.45448,25.5823,22.7909,230,3308040,3308924,gene=nlpI,product=lipoprotein NlpI
+U00096.3,3318096,3318463,NA_peak_87,1.58619,35.946,33.0429,170,3317554,3318006,gene=rimP,product=ribosome maturation factor RimP
+U00096.3,3321991,3322532,NA_peak_88,1.31678,11.5017,9.16333,216,3322173,3322505,gene=secG,product=Sec translocon subunit SecG
+U00096.3,3324373,3324621,NA_peak_89,1.27493,9.62861,7.41962,139,3324063,3324911,gene=folP,product=dihydropteroate synthase
+U00096.3,3326608,3326792,NA_peak_90,1.17509,4.73332,2.90724,13,3325001,3326935,gene=ftsH,product=ATP-dependent zinc metalloprotease FtsH
+U00096.3,3328654,3328837,NA_peak_91,1.20199,5.72816,3.81609,41,3328239,3328715,gene=greA,product=transcription elongation factor GreA
+U00096.3,3332976,3333440,NA_peak_92,1.18075,5.51108,3.61706,72,3332862,3333119,gene=rpmA,product=50S ribosomal subunit protein L27
+U00096.3,3332976,3333440,NA_peak_92,1.18075,5.51108,3.61706,72,3333140,3333451,gene=rplU,product=50S ribosomal subunit protein L21
+U00096.3,3341547,3341811,NA_peak_93,1.19812,5.90288,3.97702,128,3341266,3342252,gene=kdsD,product=D-arabinose 5-phosphate isomerase KdsD
+U00096.3,3354627,3354982,NA_peak_94,1.26762,9.48476,7.28596,113,3354725,3359185,gene=gltB,product=glutamate synthase subunit GltB
+U00096.3,3373440,3373856,NA_peak_95,1.53745,32.5619,29.6903,168,3372683,3373576,gene=nanA,product=N-acetylneuraminate lyase
+U00096.3,3373440,3373856,NA_peak_95,1.53745,32.5619,29.6903,168,3373698,3374489,gene=nanR,product=NanR
+U00096.3,3380344,3380493,NA_peak_96,1.12878,3.00847,1.39645,8,3380191,3380589,gene=zapG,product=Z-ring associated protein G
+U00096.3,3406713,3407077,NA_peak_97,1.412,21.5034,18.7739,145,3405917,3407266,gene=accC,product=biotin carboxylase
+U00096.3,3423650,3424202,NA_peak_98,1.30815,13.2353,10.7905,434,3422436,3423194,gene=yhdZ,product=putative ABC transporter ATP-binding subunit YhdZ
+U00096.3,3424284,3424462,NA_peak_99,1.25003,9.3298,7.1422,99,3422436,3423194,gene=yhdZ,product=putative ABC transporter ATP-binding subunit YhdZ
+U00096.3,3424515,3428745,NA_peak_100,1.37913,19.1042,16.4297,2901,3429236,3429790,gene=yrdA,product=hexapeptide repeat-containing protein YrdA
+U00096.3,3439678,3440496,NA_peak_101,1.13855,3.79107,2.06801,790,3439616,3439999,gene=rplQ,product=50S ribosomal subunit protein L17
+U00096.3,3439678,3440496,NA_peak_101,1.13855,3.79107,2.06801,790,3440040,3441029,gene=rpoA,product=RNA polymerase subunit alpha
+U00096.3,3440984,3441649,NA_peak_102,1.19818,6.52318,4.55008,262,3440040,3441029,gene=rpoA,product=RNA polymerase subunit alpha
+U00096.3,3440984,3441649,NA_peak_102,1.19818,6.52318,4.55008,262,3441055,3441675,gene=rpsD,product=30S ribosomal subunit protein S4
+U00096.3,3442087,3442941,NA_peak_103,2.17318,131.585,128.323,665,3441709,3442098,gene=rpsK,product=30S ribosomal subunit protein S11
+U00096.3,3442087,3442941,NA_peak_103,2.17318,131.585,128.323,665,3442115,3442471,gene=rpsM,product=30S ribosomal subunit protein S13
+U00096.3,3442087,3442941,NA_peak_103,2.17318,131.585,128.323,665,3442618,3442734,gene=rpmJ,product=50S ribosomal subunit protein L36
+U00096.3,3442087,3442941,NA_peak_103,2.17318,131.585,128.323,665,3442766,3444097,gene=secY,product=Sec translocon subunit SecY
+U00096.3,3443714,3444371,NA_peak_104,1.40583,20.3982,17.6918,291,3442766,3444097,gene=secY,product=Sec translocon subunit SecY
+U00096.3,3443714,3444371,NA_peak_104,1.40583,20.3982,17.6918,291,3444105,3444539,gene=rplO,product=50S ribosomal subunit protein L15
+U00096.3,3445343,3445500,NA_peak_105,1.18521,5.23675,3.36559,103,3445244,3445597,gene=rplR,product=50S ribosomal subunit protein L18
+U00096.3,3445718,3446051,NA_peak_106,1.25498,8.97328,6.81146,242,3445607,3446140,gene=rplF,product=50S ribosomal subunit protein L6
+U00096.3,3446353,3447102,NA_peak_107,1.33307,14.6996,12.1755,103,3446153,3446545,gene=rpsH,product=30S ribosomal subunit protein S8
+U00096.3,3446353,3447102,NA_peak_107,1.33307,14.6996,12.1755,103,3446579,3446884,gene=rpsN,product=30S ribosomal subunit protein S14
+U00096.3,3446353,3447102,NA_peak_107,1.33307,14.6996,12.1755,103,3446899,3447438,gene=rplE,product=50S ribosomal subunit protein L5
+U00096.3,3447562,3448184,NA_peak_108,1.33728,14.2668,11.7656,272,3447453,3447767,gene=rplX,product=50S ribosomal subunit protein L24
+U00096.3,3447562,3448184,NA_peak_108,1.33728,14.2668,11.7656,272,3447778,3448149,gene=rplN,product=50S ribosomal subunit protein L14
+U00096.3,3448569,3448784,NA_peak_109,1.23223,8.04809,5.9562,122,3448568,3448759,gene=rpmC,product=50S ribosomal subunit protein L29
+U00096.3,3448569,3448784,NA_peak_109,1.23223,8.04809,5.9562,122,3448759,3449169,gene=rplP,product=50S ribosomal subunit protein L16
+U00096.3,3449990,3450155,NA_peak_110,1.19376,5.64377,3.7385,97,3449901,3450233,gene=rplV,product=50S ribosomal subunit protein L22
+U00096.3,3450256,3450954,NA_peak_111,1.32994,13.6637,11.1957,423,3450248,3450526,gene=rpsS,product=30S ribosomal subunit protein S19
+U00096.3,3450256,3450954,NA_peak_111,1.32994,13.6637,11.1957,423,3450543,3451364,gene=rplB,product=50S ribosomal subunit protein L2
+U00096.3,3451639,3451933,NA_peak_112,1.1829,5.46484,3.57445,56,3451382,3451684,gene=rplW,product=50S ribosomal subunit protein L23
+U00096.3,3451639,3451933,NA_peak_112,1.1829,5.46484,3.57445,56,3451681,3452286,gene=rplD,product=50S ribosomal subunit protein L4
+U00096.3,3451983,3452257,NA_peak_113,1.17227,5.15221,3.28811,157,3451681,3452286,gene=rplD,product=50S ribosomal subunit protein L4
+U00096.3,3452956,3453406,NA_peak_114,1.4278,19.8522,17.1588,251,3452959,3453270,gene=rpsJ,product=30S ribosomal subunit protein S10
+U00096.3,3456331,3456523,NA_peak_115,1.19579,5.2167,3.34716,67,3455578,3456393,gene=gspC,product=Type II secretion system protein GspC
+U00096.3,3456331,3456523,NA_peak_115,1.19579,5.2167,3.34716,67,3456377,3458329,gene=gspD,product=Type II secretion system protein GspD
+U00096.3,3462484,3462737,NA_peak_116,1.25345,8.37801,6.26083,60,3462344,3462931,gene=gspJ,product=Type II secretion system protein GspJ
+U00096.3,3470180,3470457,NA_peak_117,1.17003,4.77374,2.94419,247,3470145,3471329,gene=tufA,product=translation elongation factor Tu 1
+U00096.3,3471424,3471787,NA_peak_118,1.31038,11.9352,9.56956,245,3471400,3473514,gene=fusA,product=elongation factor G
+U00096.3,3474504,3474788,NA_peak_119,1.2219,6.57192,4.59488,248,3474178,3474552,gene=rpsL,product=30S ribosomal subunit protein S12
+U00096.3,3474504,3474788,NA_peak_119,1.2219,6.57192,4.59488,248,3474678,3474965,gene=tusB,product=sulfurtransferase complex subunit TusB
+U00096.3,3476030,3476177,NA_peak_120,1.17378,4.46012,2.66094,122,3475718,3476440,gene=yheO,product=DNA-binding transcriptional regulator YheO
+U00096.3,3562082,3562413,NA_peak_121,1.18956,6.21994,4.26989,230,3562013,3563518,gene=glpD,product=aerobic glycerol 3-phosphate dehydrogenase
+U00096.3,3563216,3563621,NA_peak_122,1.28067,11.8871,9.52419,53,3562013,3563518,gene=glpD,product=aerobic glycerol 3-phosphate dehydrogenase
+U00096.3,3573762,3574022,NA_peak_123,1.26567,9.35,7.16097,46,3573775,3574878,gene=asd,product=aspartate-semialdehyde dehydrogenase
+U00096.3,3630626,3631017,NA_peak_124,1.21252,6.30772,4.35095,28,3630665,3630778,gene=yhiY,product=protein YhiY
+U00096.3,3630626,3631017,NA_peak_124,1.21252,6.30772,4.35095,28,3630968,3632590,gene=yhiJ,product=DUF4049 domain-containing protein YhiJ
+U00096.3,3635216,3635428,NA_peak_125,1.22059,6.09367,4.15312,82,3634841,3635893,gene=yhiM,product=inner membrane protein YhiM
+U00096.3,3635661,3635848,NA_peak_126,1.24369,7.03872,5.02489,89,3634841,3635893,gene=yhiM,product=inner membrane protein YhiM
+U00096.3,3640029,3640244,NA_peak_127,1.31775,12.3706,9.97701,112,3640111,3640545,gene=uspA,product=universal stress protein A
+U00096.3,3640374,3640850,NA_peak_128,1.72243,53.9038,50.8813,320,3640111,3640545,gene=uspA,product=universal stress protein A
+U00096.3,3640374,3640850,NA_peak_128,1.72243,53.9038,50.8813,320,3640612,3640686,gene=yriA,product=protein YriA
+U00096.3,3640374,3640850,NA_peak_128,1.72243,53.9038,50.8813,320,3640643,3640696,gene=yriB,product=protein YriB
+U00096.3,3655133,3655543,NA_peak_129,1.24213,6.94053,4.93478,113,3654683,3655213,gene=dctR,product=putative DNA-binding transcriptional regulator DctR
+U00096.3,3655133,3655543,NA_peak_129,1.24213,6.94053,4.93478,113,3655255,3655902,gene=yhiD,product=inner membrane protein YhiD
+U00096.3,3655661,3655933,NA_peak_130,1.26425,8.88464,6.72926,30,3655255,3655902,gene=yhiD,product=inner membrane protein YhiD
+U00096.3,3656466,3656675,NA_peak_131,1.33981,12.7957,10.3774,79,3656408,3656740,gene=hdeA,product=periplasmic acid stress chaperone HdeA
+U00096.3,3663659,3664112,NA_peak_132,1.30945,11.4517,9.11666,268,3663890,3664618,gene=gadW,product=DNA-binding transcriptional dual regulator GadW
+U00096.3,3664348,3664577,NA_peak_133,1.22589,6.63276,4.65091,136,3663890,3664618,gene=gadW,product=DNA-binding transcriptional dual regulator GadW
+U00096.3,3665045,3665435,NA_peak_134,1.27933,9.12953,6.95675,279,3664986,3665810,gene=gadX,product=DNA-binding transcriptional dual regulator GadX
+U00096.3,3665488,3665748,NA_peak_135,1.31252,11.068,8.75899,161,3664986,3665810,gene=gadX,product=DNA-binding transcriptional dual regulator GadX
+U00096.3,3705696,3705885,NA_peak_136,1.1783,5.2463,3.37438,50,3704771,3705790,gene=dppB,product=dipeptide ABC transporter membrane subunit DppB
+U00096.3,3718648,3718853,NA_peak_137,1.15892,4.37845,2.58805,42,3718334,3719044,gene=yiaF,product=DUF3053 domain-containing protein YiaF
+U00096.3,3719847,3720207,NA_peak_138,1.62464,41.3735,38.4289,168,3720049,3720261,gene=cspA,product=cold shock protein CspA
+U00096.3,3725385,3725561,NA_peak_139,1.21393,6.11925,4.17684,32,3725413,3725712,gene=ysaB,product=putative lipoprotein YsaB
+U00096.3,3737343,3737527,NA_peak_140,1.17247,4.52048,2.7155,137,3737497,3739527,gene=malS,product=alpha-amylase
+U00096.3,3745082,3745365,NA_peak_141,1.55407,37.1199,34.2083,123,3744804,3746081,gene=yiaN,product=2%2C3-diketo-L-gulonate:Na(+) symporter - membrane subunit
+U00096.3,3776922,3777429,NA_peak_142,2.20691,148.715,145.403,271,3776665,3777027,gene=yibL,product=DUF2810 domain-containing protein YibL
+U00096.3,3776922,3777429,NA_peak_142,2.20691,148.715,145.403,271,3777399,3779054,gene=lldP,product=lactate/glycolate:H(+) symporter LldP
+U00096.3,3806048,3806421,NA_peak_143,1.20629,5.27485,3.39997,328,3805943,3807067,gene=waaG,product=lipopolysaccharide glucosyltransferase I
+U00096.3,3807472,3807680,NA_peak_144,1.16803,3.92086,2.18281,9,3807064,3808098,gene=waaQ,product=lipopolysaccharide core heptosyltransferase 3
+U00096.3,3811441,3811638,NA_peak_145,1.18347,5.10322,3.24358,124,3811438,3811674,gene=rpmB,product=50S ribosomal subunit protein L28
+U00096.3,3811766,3811969,NA_peak_146,1.19546,5.57744,3.67745,77,3811891,3812559,gene=yicR,product=RadC-like JAB domain-containing protein YicR
+U00096.3,3821869,3822023,NA_peak_147,1.20014,5.96693,4.03628,140,3821428,3822051,gene=gmk,product=guanylate kinase
+U00096.3,3823525,3823709,NA_peak_148,1.19159,5.62078,3.71789,28,3822400,3824508,gene=spoT,product=bifunctional (p)ppGpp synthase/hydrolase SpoT
+U00096.3,3839781,3839968,NA_peak_149,1.32666,12.1786,9.7966,126,3839175,3839993,gene=nlpA,product=lipoprotein-28
+U00096.3,3840245,3840678,NA_peak_150,1.19014,4.98731,3.13791,409,3840215,3840508,gene=yicS,product=uncharacterized protein YicS
+U00096.3,3840245,3840678,NA_peak_150,1.19014,4.98731,3.13791,409,3840549,3841739,gene=nepI,product=purine ribonucleoside exporter
+U00096.3,3884524,3884684,NA_peak_151,1.21869,7.47803,5.42978,97,3884493,3884852,gene=rnpA,product=RNase P protein component
+U00096.3,3891442,3891691,NA_peak_152,1.29397,11.6666,9.31782,117,3890236,3891483,gene=tnaB,product=tryptophan:H(+) symporter TnaB
+U00096.3,3891442,3891691,NA_peak_152,1.29397,11.6666,9.31782,117,3891615,3892790,gene=mdtL,product=efflux pump MdtL
+U00096.3,3911923,3912102,NA_peak_153,1.17358,4.97931,3.13087,132,3911839,3913668,gene=glmS,product=L-glutamine--D-fructose-6-phosphate aminotransferase
+U00096.3,3914986,3915181,NA_peak_154,1.37766,18.7288,16.0645,60,3913830,3915200,gene=glmU,product=fused N-acetylglucosamine-1-phosphate uridyltransferase and glucosamine-1-phosphate acetyltransferase
+U00096.3,3920595,3920841,NA_peak_155,1.25465,10.2212,7.97162,82,3920418,3920888,gene=atpF,product=ATP synthase Fo complex subunit b
+U00096.3,3941883,3947191,NA_peak_156,1.50929,30.5216,27.6721,1534,3947128,3947967,gene=hdfR,product=DNA-binding transcriptional dual regulator HdfR
+U00096.3,3950333,3950616,NA_peak_157,1.28732,11.052,8.74397,82,3950322,3950420,gene=ilvL,product=ilvXGMEDA operon leader peptide
+U00096.3,3950333,3950616,NA_peak_157,1.28732,11.052,8.74397,82,3950507,3950557,gene=ilvX,product=uncharacterized protein IlvX
+U00096.3,3951300,3951483,NA_peak_158,1.24595,9.60811,7.40035,88,3952201,3952464,gene=ilvM,product=acetolactate synthase II subunit IlvM
+U00096.3,3964497,3964710,NA_peak_159,1.1365,3.37396,1.70612,1,3964365,3965630,gene=rhlB,product=ATP-dependent RNA helicase RhlB
+U00096.3,3966036,3966545,NA_peak_160,1.42372,22.5453,19.7973,270,3965761,3966090,gene=trxA,product=thioredoxin 1
+U00096.3,3966036,3966545,NA_peak_160,1.42372,22.5453,19.7973,270,3966231,3966332,gene=rhoL,product=rho operon leader peptide
+U00096.3,3966036,3966545,NA_peak_160,1.42372,22.5453,19.7973,270,3966417,3967676,gene=rho,product=transcription termination factor Rho
+U00096.3,3982330,3982874,NA_peak_161,1.35251,16.039,13.4529,157,3980887,3982272,gene=yifK,product=putative transporter YifK
+U00096.3,3986492,3986745,NA_peak_162,1.24047,8.04349,5.95267,76,3986686,3987882,gene=hemY,product=protein HemY
+U00096.3,3991097,3991482,NA_peak_163,1.26958,10.2394,7.98865,315,3991153,3993699,gene=cyaA,product=adenylate cyclase
+U00096.3,4035243,4038322,NA_peak_164,1.42164,21.3549,18.6289,2026,4034608,4035153,gene=hemG,product=protoporphyrinogen oxidase
+U00096.3,4038382,4040421,NA_peak_165,1.25386,10.145,7.9005,347,4040906,4041433,gene=mobB,product=molybdopterin-guanine dinucleotide biosynthesis adaptor protein
+U00096.3,4040472,4040640,NA_peak_166,1.19282,5.47278,3.58186,42,4040906,4041433,gene=mobB,product=molybdopterin-guanine dinucleotide biosynthesis adaptor protein
+U00096.3,4049623,4049817,NA_peak_167,1.18296,5.12123,3.25964,74,4046966,4049752,gene=polA,product=DNA polymerase I
+U00096.3,4049976,4050140,NA_peak_168,1.18511,5.18766,3.32085,56,4050133,4050765,gene=yihA,product=GTP-binding protein YihA
+U00096.3,4085344,4085838,NA_peak_169,1.57078,39.5499,36.62,220,4082772,4085822,gene=fdoG,product=formate dehydrogenase O subunit alpha
+U00096.3,4098298,4098480,NA_peak_170,1.1224,3.05378,1.43445,65,4097736,4098572,gene=rhaS,product=DNA-binding transcriptional activator RhaS
+U00096.3,4105322,4105478,NA_peak_171,1.19213,5.75695,3.84271,19,4104972,4105670,gene=cpxR,product=DNA-binding transcriptional dual regulator CpxR
+U00096.3,4166409,4167271,NA_peak_172,1.31742,13.1639,10.7241,512,4165428,4166285,gene=murI,product=glutamate racemase
+U00096.3,4167435,4168935,NA_peak_173,1.36606,17.8055,15.1665,325,4165428,4166285,gene=murI,product=glutamate racemase
+U00096.3,4169054,4169372,NA_peak_174,1.31412,13.1541,10.7148,136,4172057,4173085,gene=murB,product=UDP-N-acetylenolpyruvoylglucosamine reductase
+U00096.3,4169427,4171767,NA_peak_175,1.34705,16.5474,13.9447,360,4172057,4173085,gene=murB,product=UDP-N-acetylenolpyruvoylglucosamine reductase
+U00096.3,4175350,4176009,NA_peak_176,1.38333,19.0903,16.4163,431,4175944,4177128,gene=tufB,product=translation elongation factor Tu 2
+U00096.3,4176922,4177275,NA_peak_177,1.22518,7.6423,5.5812,90,4175944,4177128,gene=tufB,product=translation elongation factor Tu 2
+U00096.3,4178122,4178269,NA_peak_178,1.247,8.56685,6.43531,88,4177743,4178288,gene=nusG,product=transcription termination/antitermination factor NusG
+U00096.3,4179650,4179882,NA_peak_179,1.27181,10.5274,8.25702,95,4178879,4179583,gene=rplA,product=50S ribosomal subunit protein L1
+U00096.3,4180021,4180408,NA_peak_180,1.41144,21.3227,18.5972,89,4179996,4180493,gene=rplJ,product=50S ribosomal subunit protein L10
+U00096.3,4180716,4181159,NA_peak_181,1.26487,9.77696,7.55805,398,4180560,4180925,gene=rplL,product=50S ribosomal subunit protein L12
+U00096.3,4208197,4210860,NA_peak_182,1.48424,28.5789,25.7501,1583,4205943,4207532,gene=purH,product=bifunctional AICAR transformylase/IMP cyclohydrolase
+U00096.3,4210957,4213049,NA_peak_183,1.36228,17.9289,15.2871,1704,4213234,4213617,gene=yjaA,product=stress response protein
+U00096.3,4215913,4216078,NA_peak_184,1.14326,3.47934,1.79728,128,4215478,4217079,gene=aceB,product=malate synthase A
+U00096.3,4223171,4223554,NA_peak_185,1.2942,10.5673,8.29336,100,4222804,4223628,gene=iclR,product=DNA-binding transcriptional repressor IclR
+U00096.3,4230950,4231386,NA_peak_186,1.68174,49.5073,46.5141,237,4230354,4231226,gene=rluF,product=23S rRNA pseudouridine(2604) and tRNA(Tyr) pseudouridine(35) synthase
+U00096.3,4230950,4231386,NA_peak_186,1.68174,49.5073,46.5141,237,4231359,4231631,gene=yjbD,product=DUF3811 domain-containing protein YjbD
+U00096.3,4252513,4252670,NA_peak_187,1.18525,5.34336,3.46298,81,4252506,4253003,gene=ubiC,product=chorismate lyase
+U00096.3,4256762,4256991,NA_peak_188,1.46833,23.8722,21.1051,105,4256637,4257005,gene=dgkA,product=diacylglycerol kinase
+U00096.3,4257319,4257470,NA_peak_189,1.1397,3.55519,1.86259,34,4257115,4257723,gene=lexA,product=DNA-binding transcriptional repressor LexA
+U00096.3,4259670,4259860,NA_peak_190,1.28886,10.1367,7.8929,65,4259488,4260003,gene=zur,product=DNA-binding transcriptional repressor Zur
+U00096.3,4277700,4278032,NA_peak_191,1.42958,20.9307,18.2141,137,4277469,4277933,gene=soxR,product=DNA-binding transcriptional dual regulator SoxR
+U00096.3,4330260,4330580,NA_peak_192,1.22955,7.1116,5.09255,197,4330502,4332004,gene=proP,product=osmolyte:H(+) symporter ProP
+U00096.3,4349834,4350003,NA_peak_193,1.19443,5.22846,3.35794,116,4349315,4350034,gene=dcuR,product=DNA-binding transcriptional activator DcuR
+U00096.3,4356085,4356260,NA_peak_194,1.23977,7.10977,5.09099,115,4354954,4356411,gene=dtpC,product=dipeptide/tripeptide:H(+) symporter DtpC
+U00096.3,4373332,4373489,NA_peak_195,1.18245,4.88607,3.04622,25,4373365,4374234,gene=yjeJ,product=protein YjeJ
+U00096.3,4375857,4376031,NA_peak_196,1.19588,5.66146,3.75497,78,4375699,4376265,gene=efp,product=protein chain elongation factor EF-P
+U00096.3,4376901,4377084,NA_peak_197,1.20076,6.27204,4.31773,115,4376875,4377192,gene=gdx,product=guanidinium exporter
+U00096.3,4383132,4383317,NA_peak_198,1.23745,7.46913,5.42167,80,4382643,4383620,gene=epmA,product=EF-P-lysine lysyltransferase
+U00096.3,4392314,4392706,NA_peak_199,1.4066,19.7998,17.1073,174,4391604,4392149,gene=orn,product=oligoribonuclease
+U00096.3,4404695,4404940,NA_peak_200,1.31156,12.5562,10.151,98,4404687,4405985,gene=purA,product=adenylosuccinate synthetase
+U00096.3,4496295,4496521,NA_peak_201,1.26005,8.57191,6.4401,102,4495190,4496209,gene=ahr,product=NADPH-dependent aldehyde reductase Ahr
+U00096.3,4503349,4503744,NA_peak_202,1.74098,48.9848,45.9953,284,4502103,4503431,gene=insG,product=IS4 family putative transposase
+U00096.3,4506905,4507128,NA_peak_203,1.19404,4.83575,3.00058,25,4507197,4507451,locus_tag=b4623,product=IS911B regulator fragment
+U00096.3,4533989,4534233,NA_peak_204,1.27999,8.80041,6.6511,125,4533796,4534053,gene=topAI,product=toxin of the TopAI-YjhQ toxin-antitoxin system%2C TopA inhibitor
+U00096.3,4539828,4540005,NA_peak_205,1.68767,42.8629,39.9072,92,4538785,4539501,gene=nanC,product=N-acetylneuraminate outer membrane channel
+U00096.3,4545903,4546336,NA_peak_206,1.38191,15.1468,12.5998,180,4545096,4547732,gene=fimD,product=type I fimbriae usher protein
+U00096.3,4550889,4551891,NA_peak_207,2.45154,477.377,473.411,574,4549953,4551296,gene=gntP,product=fructuronate transporter
+U00096.3,4550889,4551891,NA_peak_207,2.45154,477.377,473.411,574,4551636,4552820,gene=uxuA,product=D-mannonate dehydratase
+U00096.3,4553415,4554636,NA_peak_208,2.40096,246.718,243.182,971,4552901,4554361,gene=uxuB,product=D-mannonate oxidoreductase
+U00096.3,4553415,4554636,NA_peak_208,2.40096,246.718,243.182,971,4554576,4555349,gene=uxuR,product=DNA-binding transcriptional repressor UxuR
+U00096.3,4606099,4606475,NA_peak_209,1.21404,6.30939,4.3525,145,4605804,4606040,gene=yjjZ,product=DUF1435 domain-containing protein YjjZ
+U00096.3,4619406,4619672,NA_peak_210,1.23942,8.54319,6.41329,120,4618229,4619551,gene=deoA,product=thymidine phosphorylase
+U00096.3,4619406,4619672,NA_peak_210,1.23942,8.54319,6.41329,120,4619603,4620826,gene=deoB,product=phosphopentomutase
